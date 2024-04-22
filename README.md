@@ -47,5 +47,7 @@ RegisterNumber: 212223240156
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/SridharShyam/SR-FLIPFLOP-USING-CASE/assets/144871368/1f10bbd1-f0bf-4cb0-bb19-01baecb858bf)
+
 **RESULTS**
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
